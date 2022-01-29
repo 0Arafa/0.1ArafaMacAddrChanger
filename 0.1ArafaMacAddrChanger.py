@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 from os import system
 
 print("""	     #####  Simple Mac Address Changer  #####\n
